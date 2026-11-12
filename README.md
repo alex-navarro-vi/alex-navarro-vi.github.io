@@ -1,6 +1,6 @@
 # El meu primer lloc web
 **Autor:** Alex Navarro Viñals
-**Cicle formatiu:** DAM: Desenvolupament d'Aplicacions Multiplataforma
+**Cicle formatiu:** DAM: Desenvolupament d'Aplicacions Multiplataforma\
 ## Descripció
 Aquest repositori conté els fitxers del meu projecte web,
 desenvolupat amb HTML, CSS i JavaScript.
