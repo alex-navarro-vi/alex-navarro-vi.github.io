@@ -11,4 +11,4 @@ desenvolupat amb HTML, CSS i JavaScript.
 
 ## Publicació
 La pàgina web està publicada mitjançant GitHub Pages.
-Adreça: https://username.github.io
+Adreça: https://alex-navarro-vi.github.io
